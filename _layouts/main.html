@@ -9,9 +9,9 @@
       <h1>{{ site.title }}</h1>
     </header>
 
-    <button id="startBttn" onclick="changeMessage()">Generate!</button>
+    <p>Acronym to generate (no spaces or dots):</p><input type="text" id="acronym" placeholder="Dab">
 
-    {% include footer.html %}
+    <button id="startBttn" onclick="generateAcronym()">Generate!</button> {% include footer.html %}
   </div>
 </body>
 
