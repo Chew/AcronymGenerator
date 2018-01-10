@@ -1,4 +1,4 @@
-var awords = "Aisle"
+var awords = "Aisle,Actually,Active,Anymore,Art,A,Ago,Authorized,Account,Added,Andesite,Anyone,All,Add"
 var bwords = "Bob"
 var cwords = "Cherry"
 var dwords = "Dab"
