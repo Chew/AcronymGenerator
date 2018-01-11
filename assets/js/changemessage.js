@@ -1,5 +1,5 @@
 function changeMessage(phrase) {
-  document.getElementById("generatedphrase").innerHTML = phrase;
+  document.getElementById("generatedphrase").innerHTML = document.getElementById("acronym").value + " stands for: " + phrase;
   document.getElementById("startBttn").textContent = "Again?";
 }
 
