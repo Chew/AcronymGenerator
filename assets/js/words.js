@@ -21,6 +21,6 @@ var twords = "Tall,Table,Taco,Tail,Tank,Tape,Taxi,Teapot,Tears,Teddy,Telephone,T
 var uwords = "Umbrella,Unicorn,United,Uppercut,Usb"
 var vwords = "Vex,Vest,Video,Violin,Volcano,Vomit"
 var wwords = "Wow,Wagon,Waist,Wallet,Watch,Water,Waterfall,Watering,Watermelon,Web,Whale,Wheat,Whisk,Whistle,Wind,Windmill,Window,Winter,Witch,Wither,Wizard,Wolf,Worm,Wrench"
-var xwords = "Xylophone"
+var xwords = "Xylophone,Xbox"
 var ywords = "YourMCAdmin"
 var zwords = "Zebra"
