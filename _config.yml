@@ -6,12 +6,11 @@ title:     Acronym Generator
 shortname: AcronymGen
 
 # Who made the generator?
-creator:   Chewsterchew
+creator:   Chew
 
 # Repo URL: THIS MUST BE Name/Repo. Ex: Chewsterchew/TRBMB-Gen
-repourl:   Chewsterchew/AcronymGenerator
+repourl:   Chew/AcronymGenerator
 
 # Footer Extra Content
 ## You'll probably want to delete this (unless you have a twitter and bot for it too?)
 #footer-extra: >
-  
