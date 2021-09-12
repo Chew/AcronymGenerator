@@ -9,14 +9,17 @@
       <h1>{{ site.title }}</h1>
     </header>
 
-    <p>Acronym to generate:</p>
-
-    <input type="text" id="acronym" placeholder="Dab">
-
-    <br />
-
-    <button id="startBttn" onclick="generateAcronym()">Generate!</button>
-
+    <div id="acronymForm">
+      <form onsubmit="return false;">
+        <label for="acronym">Acronym to generate:</label>
+        <br>
+        <br>
+        <input type="text" id="acronym" placeholder="Dab">
+        <br />
+        <button id="startBttn" type="submit" onclick="generateAcronym()">Generate!</button>
+      </form>
+    </div>
+    <br>
     <div id="generatedAcronym">
       <span id="generatedphrase" class="line"></span>
     </div>
